@@ -1,4 +1,4 @@
--- drunner 1.0 service definition for minecraft
+-- drunner service configuration for helloworld
 
 addenv("PORT","25565","The port to run minecraft on.")
 addenv("XMS","1G","Initial memory allocation","1G")
