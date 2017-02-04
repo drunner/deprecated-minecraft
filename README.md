@@ -1,6 +1,6 @@
 # drunner/minecraft
 
-A simple Minecraft server dService for dRunner 1.0.
+A simple Minecraft server dService.
 
 Pauses server on backup/restore. All data and configuration in backup. Can run multiple servers on
 a host just by using different ports. :-)
@@ -33,7 +33,7 @@ minecraft start
 ```
 NAME
    ${SERVICENAME} - Runs minecraft
-
+       
 SYNOPSIS
    ${SERVICENAME} help            - This help
    ${SERVICENAME} configure PORT  - Configure for port PORT
